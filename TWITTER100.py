@@ -18,10 +18,10 @@ plt.style.use('ggplot')
 fig=plt.figure()
 ax1=fig.add_subplot(1,1,1)
 ax2=fig.add_subplot(1,1,1)
-consumer_key = 't86doUv3Rx7iMfGBenTrFhs9l'
-consumer_secret = 'JiUPkM2zlC5qYX5pRzMhGogEHXNWvdIJhlDo83X9HCCYZqYFio'
-access_token = '912270133451571200-U1pn3p4MMIVfpU8kaC4Yi5VTWgmUAeN'
-access_token_secret = 'a4UiQFPtdYKKZRs8kTCXeCDz4Ja8qkjDfxqUGlv28D4af'
+consumer_key = ''
+consumer_secret = ''
+access_token = ''
+access_token_secret = ''
 
 
 # API's setup:
